@@ -11,7 +11,6 @@ public class Main {
         boolean running = true;
 
         System.out.println("  ЛАБОРАТОРНАЯ РАБОТА №1 ПО РПЯВУ");
-        System.out.println("  Разработка консольных приложений");
         System.out.println();
 
         while (running) {
@@ -54,14 +53,12 @@ public class Main {
     }
 
     static void showMenu() {
-        System.out.println("\n---------- МЕНЮ ЗАДАНИЙ ----------");
         System.out.println("1. FizzBuzz (1-500)");
         System.out.println("2. Вывод строки в обратном порядке");
         System.out.println("3. Числа Фибоначчи");
         System.out.println("4. Факториал числа");
         System.out.println("5. Индивидуальное задание (вар. 15)");
         System.out.println("6. Выход");
-        System.out.println("----------------------------------");
     }
 
     static void task1FizzBuzz() {
