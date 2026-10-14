@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Лабораторная работа №1 по РПЯВУ
- * Все задания в одном файле с меню выбора
- */
 public class Main {
 
     public static void main(String[] args) {
