@@ -42,7 +42,7 @@ public class Game {
     }
 
     public void displayInfo(){
-        System.out.println("Название "+name);
+        System.out.println("Название игры "+name);
         System.out.println("Жанр "+getGameType());
         System.out.println("Год выпуска  "+releaseYear);
         System.out.println("Оценка игры = "+rating);
