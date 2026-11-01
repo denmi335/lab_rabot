@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f37abbc6-2375-47b7-9dca-2736017c240e" name="Changes" comment="Лабораторная работа №3: Игры (наследование, полиморфизм)" />
+    <list default="true" id="f37abbc6-2375-47b7-9dca-2736017c240e" name="Changes" comment="Лабораторная работа №3: Игры (наследование, полиморфизм)">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,21 +19,97 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "denmi335"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;denmi335&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/denmi335/lab_rabot.git",
-    "accountId": "189c457c-cf78-4683-b829-561e8457bdc5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/denmi335/lab_rabot.git&quot;,
+    &quot;accountId&quot;: &quot;189c457c-cf78-4683-b829-561e8457bdc5&quot;
   }
-}]]></component>
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.429282718218877" />
+      <entry key="MS500" value="1.8444008874237818" />
+      <entry key="S2" value="1.9585994384929766" />
+      <entry key="S5" value="1.9832294271490034" />
+      <entry key="S10" value="1.9915792591361536" />
+      <entry key="S30" value="1.9971851705480876" />
+      <entry key="S60" value="1.9985915934695664" />
+      <entry key="M2" value="1.999295548608902" />
+      <entry key="M5" value="1.9997181598709655" />
+      <entry key="M10" value="1.999859070004851" />
+      <entry key="M15" value="1.9999060444629555" />
+      <entry key="M30" value="1.9999530211279706" />
+      <entry key="H1" value="1.999976510288102" />
+      <entry key="H2" value="1.9999882550750794" />
+      <entry key="H4" value="1.9999941275202966" />
+      <entry key="D1" value="1.999999021250988" />
+      <entry key="W1" value="1.999999860178654" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2981077824489735" />
+      <entry key="MS500" value="1.7952736617895224" />
+      <entry key="S2" value="1.944654214741821" />
+      <entry key="S5" value="1.9775061642243028" />
+      <entry key="S10" value="1.9886929554564006" />
+      <entry key="S30" value="1.9962175417925196" />
+      <entry key="S60" value="1.9981070853328855" />
+      <entry key="M2" value="1.9990531208888678" />
+      <entry key="M5" value="1.9996211470793865" />
+      <entry key="M10" value="1.9998105566562028" />
+      <entry key="M15" value="1.9998737006852758" />
+      <entry key="M30" value="1.999936848466465" />
+      <entry key="H1" value="1.9999684237641748" />
+      <entry key="H2" value="1.9999842117648214" />
+      <entry key="H4" value="1.9999921058530938" />
+      <entry key="D1" value="1.999998684304777" />
+      <entry key="W1" value="1.99999981204344" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
@@ -50,15 +129,29 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "1",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/lern/lab/lab_3",
     "onboarding.tips.debug.path": "E:/lern/сом/lab_3/src/Main.java",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="lab_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="lab_3" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,11 +174,38 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
