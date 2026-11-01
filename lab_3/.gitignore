@@ -1,8 +1,16 @@
-### IntelliJ IDEA ###
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-.kotlin
+
+# Compiled files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
 
 ### Eclipse ###
 .apt_generated
