@@ -5,8 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         boolean running = true;
 
-        System.out.println("  ЛАБОРАТОРНАЯ РАБОТА №1 ПО РПЯВУ");
-        System.out.println("  Разработка консольных приложений");
+        System.out.println("  Лабараторная работа №1");
         System.out.println();
 
         while (running) {
@@ -36,11 +35,11 @@ public class Main {
                     running = false;
                     break;
                 default:
-                    System.out.println("\nНеверный выбор! Попробуйте снова.");
+                    System.out.println("\nНеверный выбор. Попробуйте снова.");
             }
 
             if (running) {
-                System.out.print("\nНажмите Enter для возврата в меню...");
+                System.out.print("\nНажмите Enter для возврата в меню");
                 scanner.nextLine();
             }
         }
@@ -49,18 +48,17 @@ public class Main {
     }
 
     static void showMenu() {
-        System.out.println("\n---------- МЕНЮ ЗАДАНИЙ ----------");
+        System.out.println("\nМЕНЮ ЗАДАНИЙ");
         System.out.println("1. FizzBuzz (1-500)");
         System.out.println("2. Вывод строки в обратном порядке");
         System.out.println("3. Числа Фибоначчи");
         System.out.println("4. Факториал числа");
         System.out.println("5. Индивидуальное задание (вар. 15)");
         System.out.println("6. Выход");
-        System.out.println("----------------------------------");
     }
 
     static void task1FizzBuzz() {
-        System.out.println("\n--- ЗАДАНИЕ 1: FizzBuzz (1-500) ---\n");
+        System.out.println("\nЗАДАНИЕ 1: FizzBuzz (1-500)\n");
 
         for (int i = 1; i <= 500; i++) {
             if (i % 5 == 0 && i % 7 == 0) {
@@ -75,12 +73,8 @@ public class Main {
         }
     }
 
-    /**
-     * Задание 2: Вывод строки в обратном порядке
-     * Каждое слово переворачивается, порядок слов тоже обратный
-     */
     static void task2ReverseString(Scanner scanner) {
-        System.out.println("\n--- ЗАДАНИЕ 2: Вывод в обратном порядке ---\n");
+        System.out.println("\nЗАДАНИЕ 2: Вывод в обратном порядке\n");
 
         System.out.print("Введите строку: ");
         String input = scanner.nextLine();
@@ -104,7 +98,7 @@ public class Main {
     }
 
     static void task3Fibonacci(Scanner scanner) {
-        System.out.println("\n--- ЗАДАНИЕ 3: Числа Фибоначчи ---\n");
+        System.out.println("\nЗАДАНИЕ 3: Числа Фибоначчи\n");
 
         System.out.print("Сколько чисел Фибоначчи вывести? ");
         int n = scanner.nextInt();
@@ -132,7 +126,7 @@ public class Main {
     }
 
     static void task4Factorial(Scanner scanner) {
-        System.out.println("\n--- ЗАДАНИЕ 4: Факториал числа ---\n");
+        System.out.println("\nЗАДАНИЕ 4: Факториал числа\n");
 
         System.out.print("Введите целое неотрицательное число: ");
         int n = scanner.nextInt();
@@ -150,7 +144,7 @@ public class Main {
     }
 
     static void task5Variant15(Scanner scanner) {
-        System.out.println("\n--- ИНДИВИДУАЛЬНОЕ ЗАДАНИЕ (Вариант 15) ---\n");
+        System.out.println("\nИНДИВИДУАЛЬНОЕ ЗАДАНИЕ (Вариант 15)\n");
 
         System.out.print("Введите первое число (a): ");
         int a = scanner.nextInt();
