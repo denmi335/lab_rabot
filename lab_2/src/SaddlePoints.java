@@ -1,5 +1,5 @@
 public class SaddlePoints {
-
+// клас с методом
     public static int countSaddlePoints(int[][] matrix) {
         int rows = matrix.length;
         int cols = matrix[0].length;
